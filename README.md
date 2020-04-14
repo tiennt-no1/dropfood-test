@@ -1,6 +1,6 @@
 ## README
 This program is writen by ruby version 2.5.5
-Please view the requirement and problems on pdf file.
+Please view the requirement/problems on pdf file.
 
 Run the resolve by run:
 ```
